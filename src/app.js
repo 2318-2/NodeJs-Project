@@ -1,4 +1,5 @@
 // expriment
+// git log cmd to check the commitment
 const fs=require('fs')
 const express = require('express')
 const hbs = require('hbs')
